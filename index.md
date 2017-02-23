@@ -1,39 +1,31 @@
-## Welcome to GitHub Pages
+## Hello World!
 
-test
+While the title might seem like a redundant battle cry for any first post, I
+believe it encapsulates so much more than that. A simple two letter statement
+gives the reader a sense of not only the writers profession but what future posts
+may be about. It is a callout that there is none before me and so many more to
+hopefully come.
 
-You can use the [editor on GitHub](https://github.com/sdwrage/sdwrage.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Justin Lonas and I am a 10+ year Web Application Developer whom lives
+in the active college town of Athens, OH. I have experience in developing SaaS
+applications and in house applications in the realm of e-learning. I bet you are
+thinking "yeah, yeah, long walks on the beach and all that... ". I am here to say
+that I really love hilly hikes and babbling brooks over sand and sails; I always
+have I guess.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My skills? I know the following technologies:
 
-### Markdown
+- Languages: PHP, Javascript, Ruby, Groovy, HTML5, CSS3, SQL
+- Server-Side Frameworks: Zend Framework, Ruby on Rails, Grails
+- Server-Side Tech: Apache, MySQL, Node.js, NGinx (minor), Linux Administration
+- Other Tech: Vagrant, Git, AWS (EC2, S3, etc)
+- Other: Writing, Good Communication (Hey Hey :D), Clean Code, Crazy (Is that a skill?)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My Hobbies?
 
-```markdown
-Syntax highlighted code block
+- Programming (Are you really that surprised?)
+- Art (Usually Doodling... that is art right?)
+- Game design
+- Music (Singing, Guitar, etc)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sdwrage/sdwrage.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to know more? Email me at JustinLonas@me.com. 
