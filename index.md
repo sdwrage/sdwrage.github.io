@@ -28,4 +28,6 @@ My Hobbies?
 - Game design
 - Music (Singing, Guitar, etc)
 
-Want to know more? Email me at JustinLonas@me.com. 
+Want to know more? Email me at JustinLonas@me.com.
+
+✌
