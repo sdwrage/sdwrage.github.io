@@ -30,4 +30,4 @@ My Hobbies?
 
 Want to know more? Email me at JustinLonas@me.com.
 
-✌
+&#9996;
