@@ -28,6 +28,6 @@ have I guess.
 - Game design
 - Music (Singing, Guitar, etc)
 
-Want to know more? Email me at JustinLonas@me.com.
+**Want to know more? Email me at ![JustinLonas@Me.com](mailto:JustinLonas@Me.com?Subject=IT&20Job&20Inquery)**
 
 # **&#9996;**
