@@ -2,7 +2,7 @@
 
 While the title might seem like a redundant battle cry for any first post, I
 believe it encapsulates so much more than that. A simple two letter statement
-gives the reader a sense of not only the writers profession but what future posts
+gives the reader a sense of not only the writer's profession but what future posts
 may be about. It is a callout that there is none before me and so many more to
 hopefully come.
 
