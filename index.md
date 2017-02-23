@@ -6,7 +6,7 @@ gives the reader a sense of not only the writer's profession but what future pos
 may be about. It is a callout that there is none before me and so many more to
 hopefully come.
 
-My name is Justin Lonas and I am a 10+ year Web Application Developer whom lives
+My name is Justin Lonas and I am a 10+ year Web Application Developer who lives
 in the active college town of Athens, OH. I have experience in developing SaaS
 applications and in house applications in the realm of e-learning. I bet you are
 thinking "yeah, yeah, long walks on the beach and all that... ". I am here to say
